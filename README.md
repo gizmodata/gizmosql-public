@@ -1,5 +1,5 @@
-# GizmoSQL
-### Copyright © 2025 GizmoData LLC - All Rights Reserved
+# [GizmoSQL](https://gizmodata.com/gizmosql)
+### Copyright © 2025 [GizmoData](https://gizmodata.com) LLC - All Rights Reserved
 
 ## An [Arrow Flight SQL Server](https://arrow.apache.org/docs/format/FlightSql.html) with [DuckDB](https://duckdb.org) or [SQLite](https://sqlite.org) back-end execution engines
 

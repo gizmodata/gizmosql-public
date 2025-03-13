@@ -18,10 +18,12 @@ It enables authentication via middleware and allows for encrypted connections to
 For more information about Apache Arrow Flight SQL - please see this [article](https://voltrondata.com/resources/apache-arrow-flight-sql-arrow-for-every-database-developer). 
 
 > [!NOTE]   
-> GizmoSQL is a licensed-product - you MUST have a valid license key to use it for production purposes.  See repo: https://github.com/gizmodata/generate-jwt-license to generate a license key file.
+> GizmoSQL is a licensed-product - you MUST have a valid license key to use it for production purposes.   
 > If you run GizmoSQL without a valid license key - it will print this warning message:   
-> WARNING - GizmoSQL is currently running in unlicensed mode. This mode is intended for development, evaluation, or testing purposes only.   
-> To obtain a valid license key, please contact GizmoData LLC Sales at info@gizmodata.com
+```text
+WARNING - GizmoSQL is currently running in unlicensed mode. This mode is intended for development, evaluation, or testing purposes only.   
+          To obtain a valid license key, please contact GizmoData LLC Sales at info@gizmodata.com
+```
 
 ## Option 1 - Running from the published Docker image
 
